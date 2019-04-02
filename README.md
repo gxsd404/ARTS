@@ -1,3 +1,3 @@
 # leetcode
 
-这是我的leetcod目录
+这是我的leetcode目录
